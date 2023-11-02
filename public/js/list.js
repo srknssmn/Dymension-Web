@@ -1,32 +1,42 @@
 const menu = [
     {
-        id: 1,
-        title: "Lord of The Rings",
-        category: "Game",
-        price: "Game",
-        img: "/img/lotr.png",
-        desc: `Lord of The Rings has come to Dymension!
-        Join us on this adventure and let's go to Middle-Earth together to destroy Sauron.`,
-        link: "https://lotr-dymension.vercel.app/"
+      id: 1,
+      title: "Harry Potter Wizarding War",
+      category: "Game",
+      price: "Game",
+      img: "/img/hp.png",
+      desc: `Harry Potter & Lord Voldemort Battle - Dymension Edition!
+      Order of the Phoenix on one side, Death Eaters on the other! We will decide who wins.`,
+      link: "https://hp-dym.vercel.app/"
     },
     {
-        id: 2,
-        title: "F*ck Gensler",
-        category: "Game",
-        price: "Game",
-        img: "/img/gensler.png",
-        desc: `We created a wonderful game for ecosystem to relax. If you are tired of bear market; you can kick Gensler's ass in our dapp.`,
-        link: "https://dymensionguardians.vercel.app/"
+      id: 2,
+      title: "Lord of The Rings",
+      category: "Game",
+      price: "Game",
+      img: "/img/lotr.png",
+      desc: `Lord of The Rings has come to Dymension!
+      Join us on this adventure and let's go to Middle-Earth together to destroy Sauron.`,
+      link: "https://lotr-dymension.vercel.app/"
     },
     {
-        id: 3,
-        title: "Buy a Drink",
-        category: "Social",
-        price: "Social",
-        img: "/img/drinks.png",
-        desc: `A social club where you can buy each other drinks. Coming very soon..`,
-        link: "#"
-    }
+      id: 3,
+      title: "F*ck Gensler",
+      category: "Game",
+      price: "Game",
+      img: "/img/gensler.png",
+      desc: `We created a wonderful game for ecosystem to relax. If you are tired of bear market; you can kick Gensler's ass in our dapp.`,
+      link: "https://dymensionguardians.vercel.app/"
+    },
+    {
+      id: 4,
+      title: "Buy a Drink",
+      category: "Social",
+      price: "Social",
+      img: "/img/drinks.png",
+      desc: `A social club where you can buy each other drinks. Coming very soon..`,
+      link: "#"
+  }
   ];
   
   
