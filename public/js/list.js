@@ -1,6 +1,15 @@
 const menu = [
     {
       id: 1,
+      title: "NFT Raffle",
+      category: "NFT",
+      price: "NFT",
+      img: "/img/raffle.png",
+      desc: `Buy ticket(s) and enter the Raffle to own Dymension Bulls NFTs, created as the most influential NFT collection in the Dymension Ecosystem`,
+      link: "https://dymension-raffle.vercel.app/"
+    },
+    {
+      id: 2,
       title: "Harry Potter Wizarding War",
       category: "Game",
       price: "Game",
@@ -10,7 +19,7 @@ const menu = [
       link: "https://hp-dym.vercel.app/"
     },
     {
-      id: 2,
+      id: 3,
       title: "Lord of The Rings",
       category: "Game",
       price: "Game",
@@ -20,7 +29,7 @@ const menu = [
       link: "https://lotr-dymension.vercel.app/"
     },
     {
-      id: 3,
+      id: 4,
       title: "F*ck Gensler",
       category: "Game",
       price: "Game",
@@ -29,7 +38,7 @@ const menu = [
       link: "https://dymensionguardians.vercel.app/"
     },
     {
-      id: 4,
+      id: 5,
       title: "Buy a Drink",
       category: "Social",
       price: "Social",
@@ -74,6 +83,7 @@ const menu = [
   const buttons = [
     { id: "All", text: "All" },
     { id: "Game", text: "Game" },
+    { id: "NFT", text: "NFT" },
     { id: "Social", text: "Social" },
     { id: "DeFi", text: "DeFi" }
   ];
