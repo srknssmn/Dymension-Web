@@ -6,7 +6,7 @@ const menu = [
       price: "NFT",
       img: "/img/raffle.png",
       desc: `Buy ticket(s) and enter the Raffle to own Dymension Bulls NFTs, created as the most influential NFT collection in the Dymension Ecosystem`,
-      link: "https://dymension-raffle.vercel.app/"
+      link: "https://raffle-with-react.vercel.app/"
     },
     {
       id: 2,
